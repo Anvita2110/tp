@@ -14,3 +14,4 @@ public class RemarkCommand extends Command {
         return new CommandResult("Hello from remark");
     }
 }
+
